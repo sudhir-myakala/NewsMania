@@ -1,5 +1,5 @@
-const API_KEY1 = "57c65159c7c54cff977f870ef08a4f90";
-const API_KEY2 = "SMNUmFKyc6oT4ZQWU-8zKyKCe3CdSGDMEf1QYOkgy9_lEg7J";
+const API_KEY1 = "API_KEY_1";
+const API_KEY2 = "API_KEY_2";
 const url1 = "https://newsapi.org/v2/everything?q=";
 const url2 = "https://api.currentsapi.services/v1/latest-news?";
 
