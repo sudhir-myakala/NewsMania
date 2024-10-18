@@ -31,3 +31,9 @@ You can view the project live at: [NewsMania Live Demo](https://sudhir-news-mani
   - Replace YOUR_NEWS_API_KEY and YOUR_CURRENTS_API_KEY in the news.js file:
     - const API_KEY1 = "YOUR_NEWS_API_KEY";
     - const API_KEY2 = "YOUR_CURRENTS_API_KEY";
+## 📧 Contact
+
+- If you have any questions or suggestions, feel free to reach out:
+  - 📧 Email    : saisudhir1728@gmail.com
+  - 🐱‍💻 github   : https://github.com/sudhir-myakala
+  - 🔗 LinkedIn : https://www.linkedin.com/in/sai-sudhir-myakala-3a1b6a218/
