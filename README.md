@@ -22,9 +22,11 @@ You can view the project live at: [NewsMania Live Demo](https://sudhir-news-mani
 ## 🏃‍♂️ How to Start the Project Locally
 
 - **Step 1** : 🚀 Clone the Repository or Download the Source Code
+  
 - **Step 2** : 🔑 Create Your Own API Keys
   - [News API](https://newsapi.org) for global news 🌏
   - [Currents API](https://currentsapi.services) for local news 🗞️
+
 - **Step 3** : 🖥️ Run the Project on Your Localhost
   - Replace YOUR_NEWS_API_KEY and YOUR_CURRENTS_API_KEY in the news.js file:
     - const API_KEY1 = "YOUR_NEWS_API_KEY";
