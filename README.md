@@ -15,3 +15,8 @@
 - **APIs**:
   - [News API](https://newsapi.org) for global news 🌏
   - [Currents API](https://currentsapi.services) for local news 🗞️
+
+## 🏃‍♂️ How to Start the Project Locally
+
+- **step 1** : 🚀 Clone the Repository or Download the Source Code
+- **step 2** :
